@@ -1,0 +1,14 @@
+Machine learning
+
+1.Introduction, Istalling libraries
+2.Data exploration and visualization
+3.Linear regression with problem solving
+4.Logistic regression
+5.Decision  tree
+6.Random  forest
+7.Naive bayes
+8.SVM
+9.K means
+10.KNN
+11.Introduction to NLP and data pre-processing
+12-15. Project idea presentation
